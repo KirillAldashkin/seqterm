@@ -1,0 +1,10 @@
+[package]
+name = "termseq"
+version = "0.1.0"
+edition = "2024"
+authors = ["Kirill Aldashkin"]
+license = "MIT"
+description = "(Generalization of) null-terminated sequences."
+keywords = ["null", "sequence", "cstr"]
+categories = ["no-std::no-alloc", "encoding"]
+repository = "https://github.com/KirillAldashkin/seqterm"
